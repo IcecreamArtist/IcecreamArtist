@@ -1,4 +1,4 @@
-## Hey, IcecreamArtist here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=Trisolaris&style=flat-square)](https://codeforces.com/profile/IcecreamArtist)
+## Hey, IcecreamArtist here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=IcecreamArtist&style=flat-square)](https://codeforces.com/profile/IcecreamArtist)
 
 <a href="https://github.com/IcecreamArtist/IcecreamArtist">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IcecreamArtist&count_private=true&show_icons=true&hide=issues" />
