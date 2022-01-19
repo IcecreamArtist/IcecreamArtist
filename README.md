@@ -9,5 +9,5 @@
 
 I'm an undergraduate student studying in JNU.
 
--   :hammer_and_pick: C++ / Markdown / LaTeX
--   :pencil2: Windows / Clion
+-   :hammer_and_pick: C++ / Markdown / LaTeX / Java / Python
+-   :pencil2: Windows / Clion / Intellij / WebStorm / DataSpell / Pycharm
