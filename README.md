@@ -10,4 +10,3 @@
 I'm an undergraduate student studying in JNU.
 
 -   :hammer_and_pick: C++ / Matlab / TeX / Java / Python
--   :pencil2: Windows / Clion / Intellij / WebStorm / DataSpell / Pycharm / VScode / Matlab
