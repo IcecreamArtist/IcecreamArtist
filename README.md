@@ -7,6 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcecreamArtist&layout=compact&hide=javascript,html,makefile,css&langs_count=10" />
 </a>
 
-I'm an undergraduate student studying in JNU.
+CS undergraduate student @ JNU.
 
 -   :hammer_and_pick: C++ / Matlab / TeX / Java / Python
