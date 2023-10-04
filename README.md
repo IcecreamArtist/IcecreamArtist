@@ -7,6 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcecreamArtist&layout=compact&hide=javascript,html,makefile,css&langs_count=10" />
 </a>
 
-CS phd student @ CUHK.
+CS PhD student @ CUHK.
 
 -   :hammer_and_pick: C++ / Matlab / TeX / Java / Python
