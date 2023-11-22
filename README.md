@@ -9,4 +9,4 @@
 
 CS PhD student @ CUHK.
 
--   :hammer_and_pick: C++ / Matlab / TeX / Java / Python
+direction: AI for healthcare.
