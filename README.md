@@ -8,5 +8,3 @@
 </a>
 
 CS PhD student @ CUHK.
-
-direction: AI for healthcare.
